@@ -1,0 +1,36 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Star Wars.",
+      "posterPath": "https://images-na.ssl-images-amazon.com/images/I/51poKKV63GL.jpg"
+    },
+    {
+      "id": "2",
+      "title": "3 Idiots",
+      "posterPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrrG550pnrgVAnDCPkwPNjFgdRhjQTAbkvDlDbVeQp0FYFtF1l"
+    },
+    {
+      "id": "3",
+      "title": "Fight Club",
+      "posterPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPlMqIFsU2LEg6u5uok-o08ENBdQBYpisuQQfAn2si5fSeHWyQcA"
+    },
+    {
+      "id": "4",
+      "title": "Avengers",
+      "posterPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJU1qjQmp0AMc9qEqm97mk7eWk3Coo_Q8dAYc7zhr5L9YdxkW"
+    }
+  ],
+  "favourites": [
+    {
+      "id": "4",
+      "title": "Avengers",
+      "posterPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEJU1qjQmp0AMc9qEqm97mk7eWk3Coo_Q8dAYc7zhr5L9YdxkW"
+    },
+    {
+      "id": "2",
+      "title": "3 Idiots",
+      "posterPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrrG550pnrgVAnDCPkwPNjFgdRhjQTAbkvDlDbVeQp0FYFtF1l"
+    }
+  ]
+}
